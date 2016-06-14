@@ -20,4 +20,4 @@ cc -o cobs_test cobs_test.o cobs.o
 libcobs$
 ```
 
-In reality, since the command is quite long to type, I have a variation of it a script in my path. That script is somewhat specific to my environment but hopefully this gives you the general idea so that you can write your own.
+In reality, since the command is quite long to type, I have a variation as a script in my path. That script is somewhat specific to my environment but hopefully this gives you the general idea so that you can write your own.
